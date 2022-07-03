@@ -1,0 +1,60 @@
+body {
+  background: white;
+}
+
+header {
+  background: yellow;
+  width: 100%;
+  height: 300px;
+}
+
+.img-perfil {
+  border-radius: 100%;
+  width: 200px;
+  margin: 50px;
+  border: 1px solid black;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.card {
+  width: 90%;
+  height: 90px;
+  margin: 10px;
+  background: rgb(189, 185, 185);
+}
+
+.card-body {
+  background: rgb(189, 185, 185);
+  font-size: 20px;
+}
+
+.sobre,
+.stack,
+.educação,
+.experiencias,
+.linguas {
+  margin: 30px;
+}
+
+.l-1 {
+  width: 20%;
+}
+
+.img-icon {
+  width: 50px;
+  margin: 10px;
+  background-color: rgb(189, 185, 185);
+}
+
+.star {
+  color: yellow;
+}
+
+.footer {
+  color: white;
+  background: black;
+}
